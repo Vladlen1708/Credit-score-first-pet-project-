@@ -19,6 +19,7 @@
 * kagglehub
 * catboost
 * sklearn
+* collections
 
 ## Подготовка данных
 
