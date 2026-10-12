@@ -5,3 +5,4 @@ scikit-learn==1.6.1
 seaborn==0.13.2
 matplotlib==3.9.4
 kagglehub==0.3.13
+ruff==0.17.0
