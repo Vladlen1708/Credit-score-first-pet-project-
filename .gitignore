@@ -1,6 +1,6 @@
 data/train.csv
 data/test.csv
-DS_Store
+.DS_Store
 .ipynb_checkpoints/
 __pycache__/
 .ruff_cache/
