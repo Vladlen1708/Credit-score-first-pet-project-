@@ -4,3 +4,4 @@ data/test.csv
 .ipynb_checkpoints/
 __pycache__/
 .ruff_cache/
+.venv
